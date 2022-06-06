@@ -6,7 +6,13 @@ imported: '2021-11-12T09:08:34+00:00'
 last_modified: '2022-05-27T15:48:26.145600+00:00'
 parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/a7eec5e12ddce18d0ed1dbb732a42cf48f94dd09/openpecha/formatters/hfml.py
 source_metadata:
-  base: {}
+  base:
+    18fd:
+      image_group_id: I1PD95910
+      title: ཁ་ཏོན་དང་གླེགས་བམ་ཀླག་པའི་སྔོན་དུ་བྱ་བའི་ཆོ་ག།
+      total_pages: 1498
+      order: 65
+      base_file: 18fd.txt
 statistics: {}
 quality: {}
 copyright:
